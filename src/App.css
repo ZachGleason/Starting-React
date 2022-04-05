@@ -37,6 +37,18 @@
   }
 }
 
-#send {
-  background: green;
+#header {
+  font-size: 50px;
+  text-align: center;
+}
+
+#paragraph {
+  font-size: 30;
+  text-align: center;
+}
+
+.text {
+  margin-left: 390px;
+  font-size: 25px;
+  width: 200px;
 }
